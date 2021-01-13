@@ -70,8 +70,8 @@ li a:hover{
   .login{
       position: absolute;
            color: #ffffff;
-           top: 30
-           left: 28;
+           top: 40%;
+           left: 28%;
   }
 
   .button button{
